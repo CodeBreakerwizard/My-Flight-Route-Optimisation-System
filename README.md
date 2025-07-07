@@ -1,12 +1,5 @@
 # Air Flight Traveling Route Optimization
 
-## Authors
-<a href='https://www.linkedin.com/in/jasonang84/'>Jason Ang</a>, Patrick Wu, William Dinicola
-
-___ 
-
-### <a href="https://youtu.be/OORyJz-0NYY">Youtube Video!!!! (High Level Explanation)</a>
-
 ### Problem
 <ul>
   <li>Finding the most optimal path with regard to airport/population size of air flight traveling from airport to airport.</li>
